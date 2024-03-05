@@ -3,3 +3,4 @@
 - edit file
 - edit email
 - change email address
+- add profile
